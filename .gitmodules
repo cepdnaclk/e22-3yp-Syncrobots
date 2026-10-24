@@ -1,6 +1,6 @@
 [submodule "software/Swarm-Mapper"]
 	path = software/Swarm-Mapper
 	url = https://github.com/ThimiraDilshanmax-dev/Swarm-Mapper.git
-[submodule "software/Simulations"]
-	path = software/Simulations
+[submodule "software/Simulation (4 Robots)"]
+	path = software/Simulation (4 Robots)
 	url = https://github.com/ThimiraDilshanmax-dev/Swarm-Robotics-Simulation-4-Robots-.git
