@@ -1,0 +1,3 @@
+[submodule "software/Swarm-Mapper"]
+	path = software/Swarm-Mapper
+	url = https://github.com/ThimiraDilshanmax-dev/Swarm-Mapper.git
